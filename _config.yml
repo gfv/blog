@@ -5,7 +5,7 @@ email: admin@searchie.org
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
-#baseurl: "/material-jekyll-theme"
+baseurl: "/blog"
 #url: "http://alexcarpenter.me"
 fixedNav: 'true' # true or false
 theme: red # green, blue, orange, purple, grey
