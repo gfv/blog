@@ -1,0 +1,30 @@
+/* ==========================================================================
+   Red Theme
+   ========================================================================== */
+
+.t-red {
+
+  .c-navigation,
+  .c-header {
+    background: $c__dark-red;
+  }
+
+  .c-article__main a:not(.c-btn) {
+    color: $c__dark-red;
+  }
+
+  .c-post__header {
+    background-color: #25383b;
+    color: #ffffff;
+    padding: 10px;
+  }
+
+  .c-post__header a {
+    color: #ffffff;
+  }
+
+
+  .c-footer a {
+    color: $c__dark-red;
+  }
+}
